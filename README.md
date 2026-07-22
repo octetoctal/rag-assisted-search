@@ -1,1 +1,1 @@
-# ContextGraph - Hybrid Financial Search
+# ContextGraph
