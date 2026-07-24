@@ -1,1 +1,3 @@
 # ContextGraph
+
+RAG-enabled search
